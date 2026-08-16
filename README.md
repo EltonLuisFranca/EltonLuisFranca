@@ -63,13 +63,13 @@ Fundador da **[Uzuno](https://uzuno.tech)**, onde atendo projetos de automação
 
 ---
 
-### GitHub
-
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=EltonLuisFranca&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas do GitHub">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EltonLuisFranca&layout=compact&langs_count=7&theme=github_dark&hide_border=true" alt="Linguagens mais usadas">
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/EltonLuisFranca/EltonLuisFranca/output/github-contribution-grid-snake.svg" alt="Gráfico de contribuições">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/EltonLuisFranca/EltonLuisFranca/output/github-snake.svg">
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/EltonLuisFranca/EltonLuisFranca/output/github-snake-light.svg">
+    <img alt="Cobrinha comendo o gráfico de contribuições"
+      src="https://raw.githubusercontent.com/EltonLuisFranca/EltonLuisFranca/output/github-snake.svg">
+  </picture>
 </p>
